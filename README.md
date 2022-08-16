@@ -29,7 +29,9 @@
     </li>
     <li>
     Perbaiki kontran citra <br>
-    <img width="40%" alt="image" src="https://user-images.githubusercontent.com/96558726/184846008-803e4f91-a7ab-49d1-b83e-a1272813350f.jpg">
+    <img width="40%" alt="image" src="https://user-images.githubusercontent.com/96558726/184846008-803e4f91-a7ab-49d1-b83e-a1272813350f.jpg"> <br>
+    Plotting histogram setelah kualitas diperbaiki
+    <img width="40%" alt="image" src="https://user-images.githubusercontent.com/96558726/184846790-5750ffa0-235d-4d33-87cc-b1c197cf00da.png">
     </li>
     <li>
     Thresholding <br>
