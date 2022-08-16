@@ -15,7 +15,6 @@
     <li>
     Operasi Bitwise <br>
     Dilakukan untuk mendapatkan gambar yang berfokus pada paru paru, berikut hasil operasi bitwise : <br>
-    ![res_bitwise](https://user-images.githubusercontent.com/96558726/184844789-d07916ee-c8af-4a53-bac7-56daa2e5818f.jpg)
     <img width="40%" alt="image" src="https://user-images.githubusercontent.com/96558726/184844789-d07916ee-c8af-4a53-bac7-56daa2e5818f.jpg">
     </li>
     <li>
@@ -30,7 +29,7 @@
     <li>
     Perbaiki kontran citra <br>
     <img width="40%" alt="image" src="https://user-images.githubusercontent.com/96558726/184846008-803e4f91-a7ab-49d1-b83e-a1272813350f.jpg"> <br>
-    Plotting histogram setelah kualitas diperbaiki
+    Plotting histogram setelah kualitas diperbaiki <br>
     <img width="40%" alt="image" src="https://user-images.githubusercontent.com/96558726/184846790-5750ffa0-235d-4d33-87cc-b1c197cf00da.png">
     </li>
     <li>
