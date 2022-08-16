@@ -35,6 +35,7 @@
     <li>
     Thresholding <br>
     <img width="40%" alt="image" src="https://user-images.githubusercontent.com/96558726/184846202-c7ceaeb0-6b56-4549-aaf5-901e3346f786.jpg">
+    <img width="40%" alt="image" src="https://user-images.githubusercontent.com/96558726/184848388-da8cf105-9e50-4f11-b783-1cabdf58a9a8.jpg">
     </li>
   </ul>
 </div>
