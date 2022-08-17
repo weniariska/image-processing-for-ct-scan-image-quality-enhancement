@@ -1,5 +1,7 @@
+# image-processing-for-ct-scan-image-quality-enhancement
+
+
 <div id="deskripsi">
-  <hr>
   <h3>Deskripsi Project</h3>
   Program sederhana dengan menggunakan Bahasa Pemrograman Python dan library Open-CV untuk membantu tenaga medis dalam mendeteksi seseorang terkena penyakit covid-19 atau tidak. Program sibuat untuk meningkatkan kualitas citra input menjadi lebih baik dengan meningkatkan kontras dan mengurangi noise, serta tenaga medis juga dapat fokus pada bagian citra yang ingin ditelitinya, yaitu fokus hanya pada paru-parunya saja.
 </div>
